@@ -10,7 +10,6 @@ It allows you to listen to all chat events, send chat messages, ban users and ot
 
 Unlike Twitch, YouTube API is very limited and cannot be freely used without going through a long approval process. It has taken several months for YouTube to approve the integration and provide me with additional quota to be able to release it for everyone.
 
-Please consider [donating](https://lioranboard.ca/donate) or supporting me on [Patreon](https://www.patreon.com/Christinna?fan_landing=true), so I can keep further developing and maintaining the integration. Thank you!  
 
 
 

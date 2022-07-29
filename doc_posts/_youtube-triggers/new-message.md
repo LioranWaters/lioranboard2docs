@@ -13,7 +13,7 @@ This trigger is a bit different. It is a modified version of the original Twitch
 - Broadcaster - triggers only for the channel broadcaster 
 - Mod - triggers only if the viewer is a mod 
 - VIP - triggers only if the viewer's status is verified
-- Message - if you use `*` all chat messages will pass through, you can also use [Wild Cards](https://lioranboard.ca/docs/faq/receiver#wildcards)
+- Message - if you use `*` all chat messages will pass through, you can also use [Wild Cards](https://lioranwaters.github.io/lioranboard2docs/docs/faq/receiver#wildcards)
 - You cannot combine triggers. If you select Sub and Mod both, it means the viewer would need to be a sub (member) and a mod both. Add multiple triggers in that case, one for a mod and one for a sub (member).
   {% include image.html w="75" src="yt-chat-trigger.png" alt="Chat Message Trigger Options" top="true" %}
 

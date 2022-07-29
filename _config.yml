@@ -2,16 +2,14 @@ title: LioranBoard 2 Stream Deck
 tagline: LioranBoard 2 | Free and powerful Stream Deck for your Twitch and YouTube | Works with OBS
 description: Transform your ordinary stream into interactive experience for your viewers with LioranBoard Stream Deck
 name: LioranBoard 2 • Free Stream Deck 
-url: "https://lioranboard.ca"
-author:
-  twitter: christina_kral
-repository: https://github.com/LioranBoard/docs2
+url: "https://lioranwaters.github.io/lioranboard2docs"
+repository: https://github.com/Lioranwaters/lioranboard2docs
 logo: /assets/favicon/favicon-32x32.png
 social:
   name: LioranBoard
   links:
     - https://twitter.com/lioranboard
-    - https://github.com/LioranBoard
+    - https://github.com/Lioranwaters
 timezone: US/Pacific
 google_analytics_id: G-BW26WQFHV8
 google_site_verification: XXX

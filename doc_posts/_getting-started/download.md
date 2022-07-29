@@ -32,4 +32,4 @@ LioranBoard will be also compatible with OBSWS 5.0 and up once a **stable** vers
 
 
 ### Extensions
-Extensions can be found in our [Extensions](https://lioranboard.ca/extensions) section or #releases channel in our **[Discord](https://discord.gg/dXez8Zh)** server!
+Extensions can be found in our [Extensions](https://lioranwaters.github.io/lioranboard2docs/extensions) section or #releases channel in our **[Discord](https://discord.gg/dXez8Zh)** server!

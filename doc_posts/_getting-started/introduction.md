@@ -22,7 +22,7 @@ LioranBoard can listen to Twitch alerts and chat messages, send chat messages an
 
 #### Connection to YouTube Live
 
-LioranBoard can listen to YouTube Live events and control your live stream! Find out more in [Integrations-YouTube](https://lioranboard.ca/docs/integrations/youtube/general). 
+LioranBoard can listen to YouTube Live events and control your live stream! Find out more in [Integrations-YouTube](https://lioranwaters.github.io/lioranboard2docs/docs/integrations/youtube/general). 
 
 #### Connection to OBS Studio
 
