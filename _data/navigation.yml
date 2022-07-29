@@ -1,0 +1,129 @@
+main:
+- name: Getting Started
+  collection: getting-started
+- name: Components
+  collection: components
+- name: Integrations
+  submenus: 
+    - name: OBS Studio
+      link: integrations/obs
+      collection: integrations-obs
+    - name: Twitch
+      link: integrations/twitch
+      collection: integrations-twitch
+    - name: YouTube Live
+      link: integrations/youtube
+      collection: integrations-youtube
+- name: Commands
+  submenus: 
+    - name: Introduction
+      link: commands/introduction
+      collection: commands-introduction
+    - name: Variables
+      link: commands/variables
+      collection: commands-variable
+    - name: Numbers
+      link: commands/number
+      collection: commands-number
+    - name: Strings
+      link: commands/string
+      collection: commands-string
+    - name: Arrays
+      link: commands/array
+      collection: commands-stack
+    - name: Objects
+      link: commands/object
+      collection: commands-object
+    - name: Statements & Loops
+      link: commands/statements 
+      collection: commands-statements
+    - name: Wait For/Until
+      link: commands/wait
+      collection: commands-wait 
+    - name: Trigger methods
+      link: commands/trigger
+      collection: commands-trigger 
+    - name: OBS
+      subitems:
+          - name: General
+            link: commands/obs-general
+            collection: commands-obs-general
+          - name: Scenes
+            link: commands/obs-scenes
+            collection: commands-obs-scenes
+          - name: Sources
+            link: commands/obs-sources
+            collection: commands-obs-sources
+          - name: Motion
+            link: commands/obs-motion
+            collection: commands-obs-motion
+          - name: Filters
+            link: commands/obs-filters
+            collection: commands-obs-filters
+          - name: Streaming
+            link: commands/obs-streaming
+            collection: commands-obs-streaming
+          - name: Recording
+            link: commands/obs-recording
+            collection: commands-obs-recording
+          - name: Media
+            link: commands/obs-media
+            collection: commands-obs-media
+    - name: Twitch
+      link: commands/twitch
+      collection: commands-twitch
+    - name: YouTube
+      link: commands/youtube
+      collection: commands-youtube
+    - name: Files
+      subitems:
+          - name: General
+            link: commands/file-general
+            collection: commands-file
+          - name: CSV Files
+            link: commands/file-csv
+            collection: commands-file-csv
+          - name: INI Files
+            link: commands/file-ini
+            collection: commands-file-ini
+    - name: Buffers
+      link: commands/buffer
+      collection: commands-buffer
+    - name: Buttons
+      link: commands/button
+      collection: commands-button
+    - name: Mouse & Keyboard
+      link: commands/mouse-kb
+      collection: commands-mouse-kb
+    - name: Sound Effects
+      link: commands/sounds
+      collection: commands-sounds
+    - name: Miscellaneous
+      link: commands/misc
+      collection: commands-misc
+- name: Triggers
+  collection: triggers
+- name: FAQ 
+  submenus: 
+    - name: General
+      link: faq/general
+      collection: faq-general
+    - name: Buttons & Commands
+      link: faq/commands
+      collection: faq-commands
+- name: Troubleshooting
+  submenus: 
+    - name: Buttons & Commands
+      link: troubleshooting/buttons
+      collection: troubleshooting-buttons
+    - name: Common Issues
+      link: troubleshooting/common
+      collection: troubleshooting-common
+    - name: Error Messages
+      link: troubleshooting/errors
+      collection: troubleshooting-errors
+    - name: Known Bugs
+      link: troubleshooting/bugs
+      collection: troubleshooting-bugs
+- name: About
+  collection: about
