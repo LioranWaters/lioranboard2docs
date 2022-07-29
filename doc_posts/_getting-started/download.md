@@ -15,7 +15,7 @@ You should be able to run it on Linux and MacOs using [Wine](https://www.winehq.
 
 <a href="https://github.com/LioranWaters/Lioranboard2Update/blob/main/README.md#downloads"><button type="button" class="btn btn-primary">Download LioranBoard</button></a>
 
-*You can check our **[Discord's](https://discord.gg/dXez8Zh)** Announcements channel for unreleased and beta versions.* 
+*You can check our **[Discord's](https://discord.gg/QWxzscsNbm)** Announcements channel for unreleased and beta versions.* 
 
 ### Dependencies
 
@@ -32,4 +32,4 @@ LioranBoard will be also compatible with OBSWS 5.0 and up once a **stable** vers
 
 
 ### Extensions
-Extensions can be found in our [Extensions](https://lioranwaters.github.io/lioranboard2docs/extensions) section or #releases channel in our **[Discord](https://discord.gg/dXez8Zh)** server!
+Extensions can be found in our [Extensions](https://lioranwaters.github.io/lioranboard2docs/extensions) section or #releases channel in our **[Discord](https://discord.gg/QWxzscsNbm)** server!
