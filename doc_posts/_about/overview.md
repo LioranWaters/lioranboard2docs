@@ -34,6 +34,8 @@ LioranBoard 2 development started in summer 2021. Lioran recreated it mainly fro
 
 The documentation is a modified copy of the original Lioranboard dot ca documentation(no longer availble) created by Christinna K. from May 2022, can be found [here](https://github.com/SAMMISolutions/docs/tree/35c4d1f1bcd16564ecaed3e8b310f197fb92ef67) on SAMMISolutions github
 
+Lioran does not own the original documentation.
+
 For more details, and third party license information, please see [here](https://raw.githubusercontent.com/LioranWaters/lioranboard2docs/main/LICENSE).
 
 **LioranBoard would not be where it is today without you!**
