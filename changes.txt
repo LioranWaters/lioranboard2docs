@@ -1,21 +1,16 @@
-String Get Trigger type - only Trigger pull
-Remove commands: String Escape, Replay commands, Stacks are Arrays, 
+Changes
 
-New commands: Filter Motion settings,Buffer base64 encode/decode, button get id, File sha1, CSV, notification message, extension trigger extension,  swap red blue, change studio mode, sound play, stop, volume speed, switch, string digits letters, string letteers, string hash, string remove section, string replace/all, 
+Prior September 15th 2022
+	Removed any Lioranboard.ca mention
+	Removed README.md
+	Removed FUNDING.yml
+	Removed any donation links
+	Removed Gemfiles
+	Updated discord join links
+	Removed the drop down
+	Modified the upper bar of the website to only include the documentation and removed those corresponding pages
+	Added GNUgplv3 License
+	Added a mention of the license at the bottom of every pages
 
-Twitch change stream status
-createclip
-get user info
-get game info
-get channel info
-stream info
-get sub status
-get sub count
-get follower count
-edit reward
-change redempt status
-create stream marker
-create poll
-end poll
-
-if statement - or and under 
+This a version of Lioranboard documentation taken from their new account 
+Taken from the Sammi Solution github account (transfered from LioranBoard Github) https://github.com/SAMMISolutions/docs/tree/35c4d1f1bcd16564ecaed3e8b310f197fb92ef67

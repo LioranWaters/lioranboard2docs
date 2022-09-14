@@ -28,11 +28,13 @@ LioranBoard 2 development started in summer 2021. Lioran recreated it mainly fro
 
 - LioranBoard 2.0 and Stream Deck: [Lioran](https://twitter.com/FromMyBike_)
 - Transmitter 2: [Lioran](https://twitter.com/FromMyBike_) & [Christina K](https://github.com/christinna9031)
-- LioranBoard.ca website: [Christina K](https://github.com/christinna9031)
 - Docs Contributors: [Cyanidesugar](https://twitter.com/cyanidesugar_), [RoadieGamer](https://twitter.com/roadiegamer), [Melonax](https://twitter.com/melonaxx), [Sebas](https://github.com/SebasF1349)
-- Extension Devs: [Christina K](https://github.com/christinna9031), [Silverlink](https://github.com/XSilverlink) & [Andilippi](https://www.youtube.com/c/Andilippi/videos) & [MrWaldo](https://github.com/WaldoAndFriends) from [StreamUp](https://streamup.tips/), Flipstream, [Sebas](https://github.com/SebasF1349) and more!
-- Content Creators: [Andilippi](https://www.youtube.com/c/Andilippi/videos), [Nutty](https://www.youtube.com/channel/UCI5t_ve3cr5a1_3rrmbp6jQ), 
-- Discord mods: [Lioran](https://twitter.com/FromMyBike_), [Christina K](https://github.com/christinna9031), [Cyanidesugar](https://twitter.com/cyanidesugar_), [Melonax](https://twitter.com/melonaxx), [Sebas](https://github.com/SebasF1349), [Silverlink](https://github.com/XSilverlink) and more!
+
+**Documentation License Information**
+
+The documentation is a modified copy of the original Lioranboard dot ca documentation(no longer availble) created by Christinna K. from May 2022, can be found [here](https://github.com/SAMMISolutions/docs/tree/35c4d1f1bcd16564ecaed3e8b310f197fb92ef67) on SAMMISolutions github
+
+For more details, and third party license information, please see [here](https://raw.githubusercontent.com/LioranWaters/lioranboard2docs/main/LICENSE).
 
 **LioranBoard would not be where it is today without you!**
 
